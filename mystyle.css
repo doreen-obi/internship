@@ -1,0 +1,31 @@
+.welcome{
+    background-color:blue;
+    font-weight:bold;
+    font-size:30px;
+    color:white;
+}
+
+#example{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#signinbutton{
+    width:100px;
+    height:30px;
+    border-radius:30px;
+    background-color:orange;
+    color:white;
+    font-weight: bold;
+}
+
+.menu{
+    font-size: 50px;
+    font-style: italic;
+    color: blue;
+}
+#header{
+    text-align:center;
+    font-style: italic;
+    
+}
